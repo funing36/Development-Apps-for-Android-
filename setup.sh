@@ -2,7 +2,8 @@ mkdir Software
 cd Software
 mkdir Software
 git clone https://github.com/funing36/Development-Apps-for-Android-.git
-mv installs 
-
+mv ./Development-Apps-for-Android-/Installs ./Installs
+mv ./Development-Apps-for-Android-/Update.sh ./Update.sh
+rm -rf Development-Apps-for-Android-
 claer
 echo "Setup Complete!"
