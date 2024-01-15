@@ -1,2 +1,2 @@
-mkdir ../../Software/VSCode
-cd ../../Software/VSCode
+mkdir ../Software/VSCode
+cd ../Software/VSCode
