@@ -6,6 +6,6 @@ sudo apt install python3-pip
 clear
 echo "Python and pip has been installed!"
 echo "Python Version:"
-python3 -v
-echo"PIP Version:"
-pip -v
+python3 --version
+echo "PIP Version:"
+pip --version
